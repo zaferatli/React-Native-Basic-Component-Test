@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+ import React, {useState} from 'react';
 import type {PropsWithChildren} from 'react';
 import {Text, SafeAreaView, StyleSheet, View, TextInput} from 'react-native';
 
